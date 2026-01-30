@@ -76,5 +76,5 @@ Always learning, always questioning — welcome to my GitHub!
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaheerKhan&show_icons=true&locale=en&layout=compact" alt="ShaheerKhan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaheer3701&show_icons=true&locale=en&layout=compact" alt="ShaheerKhan" />
 </p>
