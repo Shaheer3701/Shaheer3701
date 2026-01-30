@@ -68,9 +68,6 @@ Always learning, always questioning — welcome to my GitHub!
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/>
-  </a>
 </p>
 
 ---
