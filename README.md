@@ -2,10 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Shaheer Khan</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+Developer;PostgreSQL+Expert;Always+Learning" alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">
-Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it.
-I enjoy building things, breaking things (accidentally, of course 😅), and figuring out how to make them better.
-When I'm not working with data, you might find me experimenting with side projects or debugging why my last fix broke everything else.
+Hey there! I work with data to uncover insights and build intelligent solutions. From analysis to modeling, I enjoy the entire data lifecycle and believe in learning through real-world projects. This GitHub reflects my journey and growth in data science
 Always learning, always questioning — welcome to my GitHub!
 </h3>
 
