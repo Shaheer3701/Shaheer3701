@@ -25,8 +25,6 @@ Always learning, always questioning — welcome to my GitHub!
 - 📫 How to reach me **shaheerkhan3701@gmail.com**
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it finally gives me what I need!**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/ShaheerKha3701" target="blank">
@@ -36,8 +34,6 @@ Always learning, always questioning — welcome to my GitHub!
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -70,8 +66,6 @@ Always learning, always questioning — welcome to my GitHub!
   </a>
 </p>
 
----
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaheer3701&show_icons=true&locale=en&layout=compact" alt="Shaheer3701" />
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Shaheer3701&show_icons=true&locale=en&layout=compact](https://camo.githubusercontent.com/e585d3e51ab50c80081fd9b1b6b07a00888a13314fd1e4db35093eca6d6aa4f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7079736f6c616e6b692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)" alt="Shaheer3701" />
 </p>
