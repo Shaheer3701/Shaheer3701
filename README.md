@@ -1,96 +1,69 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150"/>
+  
+  <h1 align="center">Hi 👋, I'm Shaheer Khan</h1>
 
-<h1 align="center">Hi 👋, I'm Shaheer Khan</h1>
-
-<p align="center">
   <a href="https://github.com/Shaheer3701">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+AI;Turning+Data+into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Building+Automated+Sales+Pipelines;Turning+Messy+Data+into+Clean+Insights" alt="Typing SVG" />
   </a>
-</p>
 
-<img align="right" alt="Coding" width="380" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
-
----
-
-### 🧠 About Me
-
-I’m a **Data Scientist** passionate about uncovering insights from data and building intelligent solutions 🚀.  
-I enjoy working across the **full data lifecycle** — from data collection and cleaning to modeling and visualization.
-
-I believe in:
-- 📊 **Data-driven decision making**
-- 🤖 **Practical machine learning**
-- 🧪 Learning by building real projects
-
-Always learning, always questioning — welcome to my GitHub!
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shaheer-khan-61b891368/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/ShaheerKha3701" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="mailto:shaheerkhan3701@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 💬 Ask Me About
-- 📊 Data Science & Analytics  
-- 🐍 Python  
-- 🗄️ PostgreSQL / SQL  
-- 🤖 Machine Learning  
-- 🕸️ Web Scraping & Automation  
+### 🚀 Who Am I?
+I am a **Data Scientist & AI Enthusiast** focused on solving real business problems. I don't just analyze data; I build systems that **automate work** and **predict outcomes**.
+
+- 🔭 **Currently Working on:** AI-powered Sales Automation Tools.
+- 🤝 **Open For:** Remote Data Science roles & Freelance Projects.
+- ⚡ **Fun Fact:** I wrestle with messy datasets until they confess their secrets. 💪
 
 ---
 
-### 📫 How to Reach Me
-- 📧 **Email:** shaheerkhan3701@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shaheer-khan-61b891368/  
-- 🐦 **X (Twitter):** https://x.com/ShaheerKha3701  
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,postgres,tensorflow,pytorch,sklearn,pandas,numpy,selenium,linux&theme=dark" />
+</div>
 
 ---
 
-### ⚡ Fun Fact
-> I enjoy wrestling with messy datasets until they finally give up clean insights 💪📈
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaheer-khan-61b891368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+### 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/Shaheer3701">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shaheer3701&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   </a>
-  <a href="https://x.com/ShaheerKha3701" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  
+  <a href="https://github.com/Shaheer3701">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer3701&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
   </a>
-  <a href="mailto:shaheerkhan3701@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
+
+<br clear="both">
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer3701&theme=tokyonight&hide_border=true" width="80%" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,postgresql,git,github,linux,jupyter" />
-</p>
+### 🐍 My Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaheer3701&bg_color=1a1b27&color=70a5fd&line=33ccff&point=ffffff&hide_border=true" width="100%"/>
+</div>
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaheer3701&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaheer3701&theme=tokyonight" height="160"/>
+  <br>
+  <i>⭐ If you like my work, give this repo a star!</i>
 </p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer3701&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 📌 Focus Areas
-- ✔ Data Analysis & Visualization  
-- ✔ Machine Learning Models  
-- ✔ SQL & Database Analytics  
-- ✔ Real-world Projects  
-- ✔ Automation & Scraping  
-
----
-
-⭐ **If you like my work, don’t forget to star the repositories!**
