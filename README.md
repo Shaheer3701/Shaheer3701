@@ -10,7 +10,7 @@
 
 <h3 align="center">
 Hey there! I work with data to uncover insights and build intelligent solutions. From analysis to modeling, I enjoy the entire data lifecycle and believe in learning through real-world projects. This GitHub reflects my journey and growth in data science
-Always learning, always questioning — welcome to my GitHub!
+Always learning, always questioning — welcome to my GitHub!😁
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
